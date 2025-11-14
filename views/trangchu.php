@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1><?php echo $title; ?></h1>
-    <h2><?php echo $thoiTiet; ?></h2>
+    <h2><?php echo $thoiTiet; ?></h2>a
 </body>
 </html>
